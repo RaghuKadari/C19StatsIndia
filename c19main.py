@@ -7,7 +7,6 @@
 #
 #################################################
 import sys
-import cv2    
 
 #import files 
 from c19_processdata import *
