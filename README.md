@@ -19,15 +19,3 @@
     ## C19 cases using Dense Neural Network - TensorFlow. 
     ![image](https://user-images.githubusercontent.com/68960324/99974915-95ce5000-2dc7-11eb-8412-2e991ddd288d.png)
     
- # 3 Using Recurrent Neural Networks - TensorFlow:
-   - If you look at the graph of C19 cases, there is no seasonality or trend and for such scenarios applying previous
-     interconnection models may not be fruitful. 
-     ## C19 cases using Recurrent Neural Networks - TensorFlow. 
-     ![image](https://user-images.githubusercontent.com/68960324/99975205-f52c6000-2dc7-11eb-8388-cb1c0129d112.png)
-  # 4 Using LSTM's.
-  - Simlar to RNN's, LSTM's also resulted in high loss. 
-    ## C19 cases using LSTM's - TensorFlow: 
-    ![image](https://user-images.githubusercontent.com/68960324/99975876-c367c900-2dc8-11eb-97cb-603718f9da1d.png)
-
-  
-   
